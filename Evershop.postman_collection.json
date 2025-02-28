@@ -1,0 +1,104 @@
+{
+	"info": {
+		"_postman_id": "484704ee-5399-4a65-8d9a-b8e759501dc0",
+		"name": "Evershop",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38096958"
+	},
+	"item": [
+		{
+			"name": "cart Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://demo.evershop.io/cart",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"cart"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "866.css Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://demo.evershop.io/assets/frontStore/cart/client/a3f0705825866defa866.css",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"assets",
+						"frontStore",
+						"cart",
+						"client",
+						"a3f0705825866defa866.css"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Black- thumb Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://demositefiles.blob.core.windows.net/images/catalog/9613/5892/plv5236-Black-thumb.png",
+					"protocol": "https",
+					"host": [
+						"demositefiles",
+						"blob",
+						"core",
+						"windows",
+						"net"
+					],
+					"path": [
+						"images",
+						"catalog",
+						"9613",
+						"5892",
+						"plv5236-Black-thumb.png"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "866.js Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://demo.evershop.io/assets/frontStore/cart/client/a3f0705825866defa866.js",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"assets",
+						"frontStore",
+						"cart",
+						"client",
+						"a3f0705825866defa866.js"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
